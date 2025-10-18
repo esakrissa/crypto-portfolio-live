@@ -64,7 +64,17 @@ This project showcases a **minimalist and modern design approach**, focusing on:
 
 ## 📱 Screenshots
 
-> *Coming soon*
+### Main Dashboard
+![Main Dashboard](1.png)
+*Real-time cryptocurrency portfolio overview with live prices and performance metrics*
+
+### Transaction History
+![Transaction History](2.png)
+*Detailed transaction records with filtering and sorting capabilities*
+
+### Theme Switcher
+![Theme Switcher](3.png)
+*Seamless theme switching between Light, Dark, and System modes*
 
 ## 🔑 API Configuration
 
