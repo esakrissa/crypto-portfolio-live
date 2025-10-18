@@ -112,5 +112,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-<p align="center">Made with ❤️ using Next.js</p>
+Made with ❤️ using Next.js
 
