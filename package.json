@@ -1,0 +1,26 @@
+{
+  "name": "trading-portfolio-monitor",
+  "version": "1.0.0",
+  "description": "Simple Next.js Trading Portfolio Monitor with Q4 2025 Dummy Data",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "next": "^15.5.6",
+    "react": "^19.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.38.0",
+    "eslint-config-next": "^15.5.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18"
+  }
+}
